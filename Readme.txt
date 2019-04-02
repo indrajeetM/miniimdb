@@ -6,6 +6,8 @@ It has two sort option like
 1) Length
 2) Date
 
+It has pagination of results which can be modifed according to your need.
+
 One can add new movies from Add New Movie option from header.While adding you have to select its language and genre.
 There is one more option like Add New Category which helps you add as many as language's and genre's.
 
@@ -21,3 +23,8 @@ Finally create database named "mini_imdb" and import "mini_imdb.sql" from projec
 For this project I have used material bootstarp i.e. Material Design Bootstrap which has rich UI components comapre to bootstrap,
 this is the link https://mdbootstrap.com/
 
+Reference of Pagination http://www.developphp.com/video/PHP/Pagination-MySQLi-Google-Style-Paged-Results-Tutorial
+
+This Project can be modified according to your need.
+
+Thank You.
