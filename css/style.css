@@ -1,0 +1,207 @@
+/* YOUR CUSTOM STYLES */
+@font-face {
+  font-family: BROADW;
+  src: url(../font/BROADW.ttf);
+  font-weight: 900;
+}
+
+
+@font-face {
+  font-family: Sport;
+  src: url(../font/SFSportsNightNSAltUpright.ttf);
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: NONSTOP_;
+  src: url(../font/NONSTOP_.ttf);
+  font-weight: 900;
+}
+
+.display-none{
+    display: none;
+}
+/*nav bar dropdown starts*/
+/*.dropdown-menu a:hover {
+
+    background-color: #a5b6be;
+
+}*/
+
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+
+    border-radius: 2px !important;
+    -webkit-transition: all .1s linear !important;
+    transition: all .1s linear !important;
+    background-color: #4285F4 !important;
+
+}
+
+
+
+
+
+/*orignal shadow*/
+/*.light-blue-skin .navbar .navbar-nav .nav-item .dropdown-menu a:active, .light-blue-skin .navbar .navbar-nav .nav-item .dropdown-menu a:focus, .light-blue-skin .navbar .navbar-nav .nav-item .dropdown-menu a:hover {
+
+    background-color: #a5b6be;
+
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+
+    border-radius: 2px !important;
+    -webkit-transition: all .1s linear !important;
+    transition: all .1s linear !important;
+    background-color: #4285F4 !important;
+
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:focus, .dropdown .dropdown-menu .dropdown-item:hover {
+
+    color: #1d1e1f;
+    background-color: #f7f7f9;
+
+}
+.btn-floating, .btn-floating.btn-flat.active, .btn:active, .btn:focus, .btn:hover, .card.card-cascade.card-avatar img, .card.card-cascade.wider.reverse .card-body, .colorful-select .dropdown-content li.active span, .comments-list .badge, .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover, .form-header, .md-pills .nav-link.active:hover, .media .media-left img, .modal-dialog .modal-content, .modal-dialog.cascading-modal .modal-header, .nav-tabs, .picker__box .picker__table .picker--focused, .picker__box .picker__table .picker__day--selected, .picker__box .picker__table .picker__day--selected:hover, .pricing-card .header, .reply-form .badge, .z-depth-1-half, ul.instagram-photos li img {
+
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+
+}
+#toast-container > div, .btn, .card.card-cascade .view.gradient-card-header, .card.card-dark .activator, .card.card-dark .card-body, .card.card-dark .card-body a, .clockpicker-display .clockpicker-display-column #click-am.text-primary, .clockpicker-display .clockpicker-display-column #click-pm.text-primary, .clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary, .clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary, .colorful-side-nav .collapsible a, .colorful-side-nav .social a, .colorful-side-nav p, .dark-side-nav .collapsible a, .dark-side-nav .social a, .dark-side-nav p, .darktheme .picker__box .picker__calendar-container .clockpicker-plate .clockpicker-tick, .darktheme .picker__box .picker__date-display .clockpicker-display, .darktheme .picker__box .picker__date-display .clockpicker-display .clockpicker-span-am-pm, .darktheme .picker__box .picker__footer button, .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover, .picker--focused .picker__list-item--selected, .picker--time .picker__button--clear:focus, .picker--time .picker__button--clear:focus::before, .picker--time .picker__button--clear:hover, .picker--time .picker__button--clear:hover::before, .picker__box .picker__header .picker__date-display, .picker__box .picker__table .picker--focused, .picker__box .picker__table .picker__day--outfocus, .picker__box .picker__table .picker__day--selected, .picker__box .picker__table .picker__day--selected:hover, .picker__date-display, .picker__date-display .clockpicker-display .clockpicker-display-column #click-am.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column #click-pm.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary, .picker__list-item--selected, .picker__list-item--selected:hover, .side-nav, .side-nav .search-form .form-control, .stylish-side-nav .collapsible a, .stylish-side-nav .social a, .stylish-side-nav p, .toast-close-button, .toast-message a, .toast-message label, .white-text, section .contact {
+
+    color: #FFF !important;
+
+}
+.navbar .dropdown-menu a:hover {
+
+    color: #fff !important;
+
+}
+.dropdown .dropdown-menu .dropdown-item {
+
+    padding: .5rem;
+    margin-left: 0;
+    font-size: .9rem;
+
+}
+.navbar .dropdown-menu a {
+
+    font-size: .9375rem;
+    font-weight: 300;
+    padding: 10px;
+    color: #000 !important;
+
+}
+.dropdown-item:focus, .dropdown-item:hover {
+
+    color: #16181b;
+    text-decoration: none;
+    background-color: #f8f9fa;
+
+}
+.double-nav a {
+
+    color: #fff;
+    font-size: 15px;
+
+}*/
+/*nav bar dropdown ends*/
+
+.mystyle{
+    font-family: 'NONSTOP_';
+    color: #4285f4;
+
+
+}
+
+.founder{
+	display: block;
+margin: auto;
+border-radius: 50%;
+width: 30%;
+}
+
+.nav-tabs {
+    border: 0;
+    padding: .7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: -20px;
+    background-color: #2bbbad;
+    z-index: 2;
+    position: relative;
+    border-radius: 2px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+}
+.nav-justified .nav-item {
+
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    text-align: center;
+
+}
+.nav-tabs .nav-item {
+
+    margin-bottom: -1px;
+
+}
+.waves-effect {
+
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    z-index: 1;
+
+}
+.nav-tabs .nav-item.open .nav-link, .nav-tabs .nav-link.active {
+
+    background-color: rgba(255,255,255,.2);
+    color: #fff;
+    -webkit-transition: all 1s;
+    transition: all 1s;
+    border-radius: 0px;
+
+}
+
+.nav-tabs .nav-link {
+
+    border: 0;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor;
+        border-left-color: currentcolor;
+    color: #fff;
+
+}
+.tab-content {
+
+    padding: 1rem;
+        padding-top: 1rem;
+    padding-top: 2rem;
+    z-index: 1;
+    border-radius: 0 0 .3rem .3rem;
+
+}
+
+/*Footer start*/
+.list-group-item{
+position: relative;
+display: block;
+padding: 5px !important;
+margin-bottom: 0px !important;
+background-color: transparent !important;
+border: 0px !important;
+}
+/*Footer ends*/
+
+.cursorPointer{
+       cursor: pointer;
+}
